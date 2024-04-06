@@ -1,4 +1,4 @@
-#conv la
+#Rian O Donnell 2024
 import torch
 from torch.nn import (ReLU, MaxPool1d, Conv1d, BatchNorm1d, Linear, Dropout, LeakyReLU, CrossEntropyLoss, Sequential, Conv2d, MaxPool2d, Module, Softmax, BatchNorm2d, Dropout, LogSoftmax, Flatten)
 from torch.optim import SGD
